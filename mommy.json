@@ -1,0 +1,62 @@
+{
+    "Ads": {
+        "AdMob": {
+            "activated": false,
+            "banner": "ca-app-pub-3940256099942544/6300978111",
+            "native": "ca-app-pub-3940256099942544/2247696110",
+            "interstitial": "ca-app-pub-3940256099942544/1033173712"
+        },
+        "FAN": {
+            "activated": false,
+            "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+        },
+        "ironSource": {
+            "activated": false,
+            "app_key": "11dae943d"
+        },
+        "Tapdaq": {
+            "activated": false,
+            "AppId": "619f526486c31c4e07c1134c",
+            "ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+        },
+        "Yandex": {
+            "banner": "R-M-1355917-2",
+            "native": "R-M-1355917-3",
+            "interstitial": "R-M-1355917-1"
+        }
+    },
+    "Config": {
+
+        "rattingIsEnabled": false
+    },
+    "Privacy": {
+        "isEnabled": true,
+        "title": "Privacy Policy",
+        "message": "Privacy Policy Message",
+        "url": "https://termly.io/privacy-policy/"
+    },
+    "GuideContent": [
+        {
+            "title": "Appearance",
+            "description": "Mommy Long Legs is a large, slender creature similar to Huggy Wuggy, but with more human-like features and also bears a resemblance to a spider with light pink skin. She has a tangled and noodle-like hair, which is tied into a ponytail using a baby blue hair tie.  "
+        },
+        {
+            "title": "Personality",
+            "description": "ILittle is known about Mommy Long Legs, except that she speaks in a unique accent and seems to put up a welcoming and friendly front to the visitors that stumble upon the ruined toy factory. "
+        },
+        {
+            "title": "Trivia",
+            "description": "The letters from the Playtime Co. Digital Collectible Tape spelled out the phrase Mommy Long Legs appears to be inspired by toys out of the 90s to 2000s, specifically Betty Spaghetty."
+        },
+        {
+            "title": "Mod Credits ",
+            "description": "This is a free game, so if you had fun and would like to keep up-to-update on the mod, make sure to support mod creators anyway you can like on their social media by subscribing, following, liking, etc. "
+        },
+        {
+            "title": "Who is Mommy Long Legs",
+            "description": "Mommy Long long is a mysterious creature that appear in the chapter 2 trailer for Playtime Poppy. She has slender figure but very large similar to Huggy Wuggy. She resemble a spider with all her 4 long arms. They are very elastic and bendy in nature. She has a pink noodle like hair that tired into a ponytail using a baby blue tie. "
+        }
+    ]
+}
